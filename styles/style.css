@@ -35,6 +35,32 @@ nav.my_navigazione ul li{
 
 }
 
+/* section sotto jumbo */
+
+/* section 6 card */
+[class^="my_bkg-"]{
+    width: 90vw;
+    height: 65vh;
+}
+
+.my_bkg-rosso{
+    background-color: #ba4b63;
+}
+.my_bkg-azzurro{
+    background-color: #1ea4b6;
+}
+.my_bkg-nero{
+    background-color: #140f0f;
+}
+.my_bkg-celeste{
+    background-color: #1c83c1;
+}
+.my_bkg-blu{
+    background-color: #0e38b5;
+}
+.my_bkg-marrone{
+    background-color: #ccb2a3;
+}
 
 
 
