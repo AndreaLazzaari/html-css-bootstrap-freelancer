@@ -44,6 +44,10 @@ div.jumbo-img img{
     padding: 2.8rem;
 }
 
+div.my_jumbo-contenuti h1{
+    font-weight: bolder;
+}
+
 /* Portfolio */
 #portfolio{
     padding: 2rem;
@@ -74,7 +78,9 @@ div.jumbo-img img{
 
 /* Media query md */
 @media  screen and (min-width: 768px){
-   
+    div.my_jumbo-contenuti h1{
+        font-size: 3.7rem;
+    }
 }
 
 
