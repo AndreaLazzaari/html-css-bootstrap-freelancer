@@ -16,6 +16,10 @@ ul{
     color: white;
 }
 
+.my_padding{
+    padding: 1.5rem 4rem;
+}
+
 /* Tag Header */
 div.col-6 h1{
     font-size: 1rem;
@@ -70,7 +74,9 @@ nav.my_navigazione ul li{
     background-color: #ccb2a3;
 }
 
-
+/* About */
+#about{
+}
 
 /* Media query md */
 @media  screen and (min-width: 768px){
