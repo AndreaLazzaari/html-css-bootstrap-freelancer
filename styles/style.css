@@ -39,14 +39,12 @@ ul.my_nav li{
 /* Tag Main */
 
 /* Tag Jumbo */
-
-
-.my_jumbo-contenuti{
-    /* height: 400px; */
+div.jumbo-img img{
+    max-width: 25rem;
+    padding: 2.8rem;
 }
 
-/* section sotto jumbo */
-
+/* Portfolio */
 #portfolio{
     padding: 2rem;
 }
