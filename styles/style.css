@@ -53,12 +53,11 @@ div.my_jumbo-contenuti h1{
 
 div.my_jumbo-contenuti p{
     padding-top: .8rem;
-
 }
 
 /* Portfolio */
 #portfolio{
-    padding: 2rem;
+    padding: 2rem;   
 }
 
 .my_box{
@@ -71,6 +70,7 @@ div.my_jumbo-contenuti p{
 
 /* About */
 #about{
+
 }
 
 /* Footer */
