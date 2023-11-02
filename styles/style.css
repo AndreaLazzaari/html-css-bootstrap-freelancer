@@ -11,6 +11,10 @@ ul{
     list-style-type: none;
 }
 
+.my_bkg-light-green{
+    background-color: #1abc9c;
+}
+
 /* Tag Header */
 div.col-6 h1{
     font-size: 1rem;
@@ -28,9 +32,7 @@ nav.my_navigazione ul li{
 /* Tag Main */
 
 /* Tag Jumbo */
-.my_jumbo{
-    background-color: #1abc9c;
-}
+
 
 .my_jumbo-contenuti{
     height: 400px;
